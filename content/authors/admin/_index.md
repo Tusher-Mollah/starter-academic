@@ -73,4 +73,4 @@ email: ""
 highlight_name: false
 ---
 
-Md Tusher Mollah currently works as a Ph.D. Student at the Department of Mechanical Engineering, Section of Process and Production Technology, Technical University of Denmark. Md Tusher does research in Applied Mathematics, Mechanical Engineering, and Mathematical Physics. His current project is 'CFD Modelling of Material Extrusion Additive Manufacturing.
+Md Tusher Mollah currently works as a Ph.D. Student at the Department of Mechanical Engineering, Section of Process and Production Technology, Technical University of Denmark. Md Tusher does research in Applied Mathematics, Mechanical Engineering, and Mathematical Physics. His current project is 'CFD Modelling of Material Extrusion Additive Manufacturing'.

@@ -3,7 +3,7 @@
 First clone the repository and update!
 
 ```console
-git clone git@git-tusher:Tusher-Mollah/starter-academic.git tusher
+git clone git@git-tusher:md-tusher-mollah/starter-academic.git tusher
 
 cd tusher
 
@@ -13,7 +13,7 @@ git submodule update --init --recursive
 Then delete the public folder if exists! And after that add the submodule by typing the following in the terminal.
 
 ```console
-git submodule add -f -b master git@git-tusher:Tusher-Mollah/tusher-mollah.github.io.git public
+git submodule add -f -b master git@git-tusher:md-tusher-mollah/md-tusher-mollah.github.io.git public
 ```
 
 Now lets push those codes into the repository.

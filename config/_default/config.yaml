@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Md Tusher Mollah # Website name
-baseurl: 'https://tusher-mollah.github.io' # Website URL
+baseurl: 'https://md-tusher-mollah.github.io' # Website URL
 copyright: '&copy;Md Tusher Mollah' # Footer text, e.g. '© {year} Me'
 
 ############################

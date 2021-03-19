@@ -22,24 +22,33 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
-    location: California
-    date_start: '2017-01-01'
+  - title: Lecturer
+    company: European University of Bangladesh 
+    company_url: 'https://eub.edu.bd/'
+    location: Dhaka, Bangladesh
+    date_start: '2019-01-01'
     date_end: ''
-    description: |2-
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
-        
-  - title: Professor
-    company: University X
+    description: 
+
+  - title: Research Assistant
+    company: 
     company_url: ''
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2016-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    location: Khulna, Bangladesh
+    date_start: '2018-06-01'
+    date_end: '2018-12-01'
+    description: |2-
+
+        * Supervised By: Prof. Dr. Md. Mahmud Alam, Mathematics Discipline, Khulna University, Khulna-9208, Bangladesh.
+
+  - title: Research Fellow
+    company: 
+    company_url: ''
+    location: Dhaka, Bangladesh
+    date_start: '2017-07-01'
+    date_end: '2018-06-01'
+    description: |2-
+
+        * Supervised By: Prof. Dr. Md. Mahmud Alam, Mathematics Discipline, Khulna University, Khulna-9208, Bangladesh.
+        * Funded by: National Science and Technology (NST).
+        
 ---

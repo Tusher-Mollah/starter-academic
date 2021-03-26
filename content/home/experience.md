@@ -22,12 +22,20 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Lecturer
+  - title: Lecturer (Study Leave)
     company: European University of Bangladesh 
     company_url: 'https://eub.edu.bd/'
     location: Dhaka, Bangladesh
     date_start: '2019-01-01'
     date_end: ''
+    description: 
+
+  - title: Adjunct Lecturer
+    company: Central University of Science and Technology
+    company_url: 'https://cust.edu.bd/'
+    location: Dhaka, Bangladesh
+    date_start: '2018-11-01'
+    date_end: '2019-06-01'
     description: 
 
   - title: Research Assistant
